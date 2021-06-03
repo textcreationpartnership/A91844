@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rising and routing of the mutiniers in the city of London: on Sunday and Munday the 9th and 10th of Aprill, 1648. Their fight at the Lord Mayors. Breaking open the armory, and taking the money and plate. Took two gates, and the keyes of the city. Seized one brasse gunne, their severall fights with the trained bands and the souldiers of the army. And the numbers and names of those that are slain and wounded on both sides.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91844</idno><idno type="EEBO-CITATION">99865411</idno>
+  <idno type="VID">161576</idno>
+  <idno type="EEBO-PROQUEST">2240927663</idno>
+  
+            <idno type="STC">Wing R1538</idno>
+            <idno type="STC">Thomason E435_4</idno>
+            <idno type="STC">ESTC R206238</idno>
+            <idno type="PROQUEST">99865411</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865411e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161576)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rising and routing of the mutiniers in the city of London: on Sunday and Munday the 9th and 10th of Aprill, 1648. Their fight at the Lord Mayors. Breaking open the armory, and taking the money and plate. Took two gates, and the keyes of the city. Seized one brasse gunne, their severall fights with the trained bands and the souldiers of the army. And the numbers and names of those that are slain and wounded on both sides.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Riots --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161576:1"/>
+            <p>THE Rising and ROUTING of the Mu<g ref="char:EOLhyphen"/>tiniers in the City of LONDON: ON Sunday and Munday the 9<seg rend="sup">th</seg> and 10<seg rend="sup">th</seg> of <hi>Aprill,</hi> 1648.</p>
+            <p>Their fight at the Lord Mayors. Break<g ref="char:EOLhyphen"/>ing open the Armory, and taking the Money and Plate. Took two Gates, and the Keyes of the City.</p>
+            <p>Seized one Brasse Gunne, Their seve<g ref="char:EOLhyphen"/>rall Fights with the Trained Bands and the Souldiers of the Army.</p>
+            <p>AN<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The Number and Names of those that are slain and wounded on both sides.</p>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be sold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161576:2"/>
+            <pb n="1" facs="tcp:161576:2"/>
+            <head>THE Rising and Routing of the Mutiniers in the City of <hi>London,</hi> On Sunday and Munday the 9th and 10th of <hi>April</hi> 1648.</head>
+            <p>THe Right Honourable Alderman <hi>War<g ref="char:EOLhyphen"/>ner,</hi> Lord Mayor of the City of <hi>London,</hi> being pressed by divers from the Divines, and the inhabitants thereof, to take some course for the stopping of the hainous sin of Sab<g ref="char:EOLhyphen"/>bath-breaking, by gaming, and drinking, as hath bin usual in most parts, about the skirts of this famous City of <hi>London,</hi> to the great dis-honour of God, and incouragement of wickednesse and vice.</p>
+            <p>His Lordship had some treaty with the Justices of the Peace for <hi>Middlesex,</hi> for their concurrence to the effecting of a suppression thereof. And on Saturday <hi>April</hi> 8. 1648. It was concluded to begin the said Reformati<g ref="char:EOLhyphen"/>on.</p>
+            <pb n="2" facs="tcp:161576:3"/>
+            <p>On the Lords day <hi>April</hi> 9. His Lordship sent some Officers, with watchmen, and others, and after them Mr. <hi>Marshall,</hi> the Martiall for the City, who entring <hi>Moore-fields</hi> about three a clock in the afternoon, found the foure quarters within the freedome pretty cleare.</p>
+            <p>But presently after they were entred they under<g ref="char:EOLhyphen"/>stood of a party of the Trained Band for <hi>Middlesex</hi> to be about <hi>Findsbury,</hi> where they had some oppositi<g ref="char:EOLhyphen"/>on, by divers loose fellows that they had found play<g ref="char:EOLhyphen"/>ing at Cat, drinking, and other dis rders, in the Ser<g ref="char:EOLhyphen"/>mon time. They were said to be Apprentises, but the <hi>London</hi> Apprentises scorn to own them.</p>
+            <p>The Trained Band had made several shots at them, but it was onely with powder, hoping that would have apprased them.</p>
+            <p>But boyes, and others throwing stones at the Train Band, did so provoke them, that they marched up a<g ref="char:EOLhyphen"/>gainst them in a whole body, which caused them to retreat towards the City Officers, by which mean<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s two of them were taken, (with stones in their hands) by the Marshall.</p>
+            <p>But they (afterwards) rallied again, and fell on the Trained Bands with such violence (more being come in to them) that they were faine to retreate towards the City-officers, and having a little made good a passe at the steps in Moore-fields, they retreated into <hi>Long-Alley,</hi> and made that place good against them. And in this retreate the Trained Bands had charged with bullets, and shot one of them, who was slaine.</p>
+            <p>After this the mutiniers marched some to <hi>White-Chapell,</hi> and tooke the Captaines Coulours, and o<g ref="char:EOLhyphen"/>thers marched into <hi>Smithfield</hi> and other places, some broke open houses, and plundred mony, plate, and
+<pb n="3" facs="tcp:161576:3"/>other things, much hurt was done in severall pla<g ref="char:EOLhyphen"/>ces.</p>
+            <p>In the meane time the Lord <hi>Mayor</hi> had called a Committee of <hi>Militia,</hi> and given out warrants for raising of the Trained Bands, but it being late, and the action suddaine, little was done that night in op<g ref="char:EOLhyphen"/>position to them.</p>
+            <p>In the night the mutiniers went into <hi>Milke-streete,</hi> and broke into the great Armerers shop kept by Ma<g ref="char:EOLhyphen"/>ster <hi>Webster,</hi> where they tooke 20 <hi>li.</hi> in monyes, neere 80 <hi>li.</hi> worth of Plate, and above 400 Armes.</p>
+            <p>On Munday morning about one of the clock they marched to the Lord Mayors, where the Commit<g ref="char:EOLhyphen"/>tee of the <hi>Militia</hi> was then siting, and two Drakes placed at his Lordships gate, with some of the Train<g ref="char:EOLhyphen"/>ed Bands for a guard</p>
+            <p>They offered to make an attempt, where they had opposition, but advertisements being given to the Committee of the <hi>Militia,</hi> the two Sheriffes and o<g ref="char:EOLhyphen"/>thers came both out to parley with them, but no a<g ref="char:EOLhyphen"/>greement was concluded, though a pacification much laboured for by them.</p>
+            <p>Whereupon the mutineres cryed fall on, fall on, which they did, one of the Sheriffes being then be<g ref="char:EOLhyphen"/>fore the former Drake, so that it could not bee dis<g ref="char:EOLhyphen"/>charged without danger to have slaine him, and so that Gun was seized on, and after a short skirmish marched away.</p>
+            <p>There was at this time slain, one of the Trained Band, who was a Joyner neer <hi>Bi<g ref="char:EOLhyphen"/>shoplgate,</hi> and two of the Mutiniers. The Committee retreated in safety.</p>
+            <pb n="4" facs="tcp:161576:4"/>
+            <p>After this the Mutiniers marched to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and seized on the Gate, and took the keyes from the Porter, both of <hi>Ludgate</hi> and <hi>Newgate.</hi> Suffering none to passe either in or out: there being of them armed about 500 and divers Malignants following after them to incourage them.</p>
+            <p>Divers of the Staires were stopped by wa<g ref="char:EOLhyphen"/>ter, and a Drum beaten for the raising of for<g ref="char:EOLhyphen"/>ces under the name of, <hi>For GOD and King Charles.</hi>
+            </p>
+            <p>Then they divided themselves into two bodies, besides some sub-divisions, and one of their bodies stood at <hi>Ludgate</hi> with one of the Drakes which they had taken at the Lord Mayors. Divers Country people were con<g ref="char:EOLhyphen"/>strained to keep Market in <hi>Smith-field, Hol<g ref="char:EOLhyphen"/>borne,</hi> and other places without the Gates, most of the Chaines were drawn about the City.</p>
+            <p>The other body of the Mutiniers march<g ref="char:EOLhyphen"/>ed up to the Royall <hi>Exchange,</hi> with the other Drake, and an Ensigne, shouting, and with great noise, offering affronts to many.</p>
+            <p>The Inhabitants of the City, desiring to
+<pb n="5" facs="tcp:161576:4"/>guard their own houses, Collonel <hi>Rich</hi> was sent to for some Horse from the <hi>Mewes,</hi> and Collonell <hi>Baxter</hi> for some Foot from <hi>White-Hall.</hi>
+            </p>
+            <p>About seven a clock Major <hi>Husbands</hi> with some Horse, and Lieutenant Collonel <hi>Cobbet</hi> with Foot, entred at <hi>Aldersgate, &amp;c.</hi> And a party of those horse and foot, pursued those that had passed through <hi>Corne-hill,</hi> and over<g ref="char:EOLhyphen"/>took them at <hi>Leaden-hall,</hi> where they charged them.</p>
+            <p>The Mutiniers let fly at them again, and discharged the Drake which was loaden with small shot, besides other shot made as them. But gallant Major <hi>Husbands,</hi> Captain <hi>Merri<g ref="char:EOLhyphen"/>man,</hi> Lieutenant <hi>Lisle,</hi> with the Horse, and Captain <hi>Poole</hi> of foot, with the rest of the Of<g ref="char:EOLhyphen"/>ficers and Souldiers, fell on with courage vi<g ref="char:EOLhyphen"/>olently, they killed the Gunner, and another. A woman (which stood at the breech of the Ordnance) was slain, and divers hurt. And they seized the Drake, which they turned o<g ref="char:EOLhyphen"/>ver into the channell, and took their Colours, with the Ensigne, and divers other prisoners, some shot at the Souldiers through windows
+<pb n="6" facs="tcp:161576:5"/>but being answered with shot again, that was soon over.</p>
+            <p>Of the Lord Generalls men, Captain <hi>Mer<g ref="char:EOLhyphen"/>riman</hi> is shot in the Arme, Lieutenant <hi>ones</hi> is shot in the groyne, and a Trooper wound<g ref="char:EOLhyphen"/>ed.</p>
+            <p>And when they came to <hi>Ludgate,</hi> the Mu<g ref="char:EOLhyphen"/>tiniers fled, and threw down all, but divers are taken. Many are in prison about it, and like to be made examples of terrour.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 10, 1648</date>
+               </dateline>
+               <signed>Imprimatur G. M.</signed>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
